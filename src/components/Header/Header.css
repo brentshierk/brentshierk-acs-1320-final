@@ -1,0 +1,15 @@
+.Header {
+  font-family: fantasy;
+  box-sizing: border-box;
+  width: 100%;
+  display:contents;
+  justify-content: center;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+  }
+.Header{
+  width: 100%;
+  text-align: center;
+}
